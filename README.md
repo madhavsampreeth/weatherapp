@@ -14,7 +14,7 @@ A simple weather application that shows real-time weather data using a public we
 - Weather API (OpenWeatherMap)
 
 ## Live Demo
-👉 https://your-username.github.io/weather-app/
+👉 [https://your-username.github.io/weather-app/](https://madhavsampreeth.github.io/weatherapp/)
 
 ## How to Run Locally
 1. Download or clone this repository
