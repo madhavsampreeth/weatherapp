@@ -21,4 +21,4 @@ A simple weather application that shows real-time weather data using a public we
 2. Open `index.html` in your browser
 
 ## Author
-Maddy
+Madhav Sampreeth
